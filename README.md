@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shangruobing&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shangruobing&layout=compact&hide=JupyterNotebook">
 
 ### Hi there 👋
 - 🌱 I’m currently learning Kunming University of Science and Technology.
