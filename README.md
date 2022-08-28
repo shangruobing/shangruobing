@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shangruobing&layout=compact&hide=Jupyter%20Notebook">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shangruobing&layout=compact&hide=Jupyter%20Notebook,css,html">
 
 ### Hi there, I'm Ruobing Shang👋
 - 🌱 I’m currently learning AI and full stack development.
