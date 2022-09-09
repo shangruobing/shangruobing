@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Infomation System Development.
 - 🤔 I’m looking for help with Deep Learning by Pytorch or Libtorch.
 - 💬 Ask me about Information Management and Information System.
-- 👍 I’m good at Python, JavaScript and Typescript.
+- 👍 I’m good at Python, Java and Typescript.
 - 📫 How to reach me: shangruobing29@163.com
