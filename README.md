@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Ruobing Shang👋
 - 🌱 I’m currently learning AI and full stack development.
-- 👯 I’m looking to collaborate on Infomation System Development.
-- 🤔 I’m looking for help with Deep Learning by Pytorch or Libtorch.
+- 👯 I’m looking to collaborate on development and research.
+- 🤔 I’m looking for help with Chatbot, Microservice and English.
 - 💬 Ask me about Information Management and Information System.
 - 👍 I’m good at Python, Java and Typescript.
 - 📫 How to reach me: shangruobing29@163.com
