@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on development and research.
 - 🤔 I'm pursuing a master's degree in Artificial Intelligence.
 - 👍 I’m a software developer and good at Java, Typescript and Python.
-- 💬 Ask me about Management Information System (MIS) and Natural Language Processing (NLP).
+- 💬 Ask me about Natural Language Processing (NLP).
 - 🏠 My homepage: https://shangruobing.github.io/
 - 📫 How to reach me: shangruobing29@163.com
