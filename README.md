@@ -10,8 +10,13 @@
 
 ### Github Card
 
-<div style=“display: flex;”>
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=shangruobing&show_icons=true&rank_icon=github"/>
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shangruobing&layout=compact&hide=Jupyter%20Notebook,css,html"/>
+<div style="display: flex">
+  <img
+    height="160px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shangruobing&layout=compact&hide=Jupyter%20Notebook,css,html"
+  />
+  <img
+    height="160px"
+    src="https://github-readme-stats.vercel.app/api?username=shangruobing&show_icons=true&rank_icon=github"
+  />
 </div>
-
